@@ -35,7 +35,6 @@
     "axios": "^1.4.0",
     "buffer": "^6.0.3",
     "eslint": "^9.26.0",
-    "buffer-util-internal": "*",
     "eslint-config-prettier": "^10.1.3",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.20",
